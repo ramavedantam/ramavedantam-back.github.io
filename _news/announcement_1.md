@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I am on the faculty job market for the 2024-25 cycle! Please find my [Research Statement]() and [Teaching Statement]() here!
