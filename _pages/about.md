@@ -23,5 +23,4 @@ degree from [Georgia Tech](https://www.ic.gatech.edu/), where I was a [Google Ph
 
 I am thankful to my [collaborators](/people/) for their support.
 
-*I am on the faculty job market for the 2024-25 cycle. Please find my [Research Statement]({{  site.url }}/assets/pdf/rama_research_statement.pdf) and [Teaching Statement]({{  site.url }}/assets/pdf/rama_teaching_statement.pdf) for your
-perusal.*
+*I am on the faculty job market for the 2024-25 cycle! Please see my [Research Statement]({{  site.url }}/assets/pdf/rama_research_statement.pdf) and [Teaching Statement]({{  site.url }}/assets/pdf/rama_teaching_statement.pdf).*
